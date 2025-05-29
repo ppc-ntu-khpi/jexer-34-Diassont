@@ -21,7 +21,7 @@
 ---
 
 ## 🔢 Результат роботи програми (на 5):
-![Result]()
-![Result]()
-![Result]()
-![Result]()
+![Result](https://github.com/ppc-ntu-khpi/jexer-34-Diassont/blob/master/ImageResult/1.png?raw=true)
+![Result](https://github.com/ppc-ntu-khpi/jexer-34-Diassont/blob/master/ImageResult/2.png?raw=true)
+![Result](https://github.com/ppc-ntu-khpi/jexer-34-Diassont/blob/master/ImageResult/3.png?raw=true)
+![Result](https://github.com/ppc-ntu-khpi/jexer-34-Diassont/blob/master/ImageResult/4.png?raw=true)
